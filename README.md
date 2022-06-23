@@ -1,4 +1,4 @@
-# password-generator
+## password-generator
 
 Two ways to generate password : 
 
